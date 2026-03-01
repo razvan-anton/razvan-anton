@@ -6,16 +6,15 @@ Learning how to build efficient software from the ground up. Currently moving aw
 ---
 
 ### 🛠️ Current Explorations
-* **C-Transposition-Cipher**: An exercise in manual memory management and pointer arithmetic. Modular C implementation for symmetric encryption.
 * **GTSRB-Optimization**: A study on CNN architecture. Measured the trade-offs between kernel sizes and inference speed.
 * **Dermafinder-AI-Core**: Implementing Mixed Precision ($float16$) training to optimize GPU usage on limited hardware.
 
 ---
 
 ### 🛠️ Stack & Tools
-* **Languages**: C, Python, Bash.
+* **Languages**: C, C++, Python, Bash.
 * **Environment**: Linux (Ubuntu), GCC, Make, Git.
-* **AI/ML**: TensorFlow, OpenCV (focused on performance tuning).
+* **AI/ML**: TensorFlow, Pands, Numpy, scikit-learn, OpenCV (focused on performance tuning).
 
 ---
 
